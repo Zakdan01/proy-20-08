@@ -1,0 +1,15 @@
+* {
+    margin: 30px;
+}
+body{
+    background-color: aquamarine;
+}
+figure{
+    border-radius: 15ex;
+}
+h1{
+    color: brown;
+}
+div{
+    background-color: blueviolet;
+}
